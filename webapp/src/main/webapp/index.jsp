@@ -14,7 +14,7 @@
           <i class="fa fa-twitter fa-fw"></i> Login with Twitter X
         </a>
         <a href="#" class="google btn">
-          <i class="fa fa-google fa-fw"></i> Login with G Mail
+          <i class="fa fa-google fa-fw"></i> Login with G Mail account
         </a>
       </div>
 
